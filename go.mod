@@ -1,4 +1,4 @@
-module github.com/2dust/AndroidLibV2rayLite
+module github.com/automsen/go-tun2socks-ad
 
 go 1.15
 
