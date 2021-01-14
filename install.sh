@@ -1,0 +1,1 @@
+gomobile bind -v  -tags json ./
